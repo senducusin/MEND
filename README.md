@@ -7,6 +7,13 @@
 
 ---
 
+## **Introduction**
+Originally designed as a combat medic unit, M.E.N.D. (Mechanical Entity for Nurturing and Divinity) was programmed to heal allies and eliminate enemies with equal efficiency. After the war, abandoned and purposeless, they wandered until stumbling upon a mysterious Fey crossing—a shimmering portal hidden in a forgotten forest.
+
+Beyond it lay a Fey domain where mischievous (or malicious) Fey creatures lured in fugitives, outcasts, and criminals, offering them sanctuary—only to toy with them for eternity. M.E.N.D. saw this place not as a refuge, but as a testing ground.
+
+---
+
 ## **Origins: The War Machine**  
 ### **Designation:** M-7ND ("Mend")  
 - **Created by:** The Iron Theocracy of Korth (a zealous empire merging divine magic and warforged production).  
