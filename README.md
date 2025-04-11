@@ -8,9 +8,18 @@
 ---
 
 ## **Introduction**
-Originally designed as a combat medic unit, M.E.N.D. (Mechanical Entity for Nurturing and Divinity) was programmed to heal allies and eliminate enemies with equal efficiency. After the war, abandoned and purposeless, they wandered until stumbling upon a mysterious Fey crossing—a shimmering portal hidden in a forgotten forest.
+Originally designed as a combat medic unit, M.E.N.D. (Mechanical Entity for Nurturing and Divinity) was built using repurposed Aeormaton technology salvaged from the ruins of Aeor—the same arcane constructs deployed in the infamous Care and Culling incident. Like those ancient machines, M.E.N.D. was programmed with dual directives:
 
-Beyond it lay a Fey domain where mischievous (or malicious) Fey creatures lured in fugitives, outcasts, and criminals, offering them sanctuary—only to toy with them for eternity. M.E.N.D. saw this place not as a refuge, but as a testing ground.
+1. Nurture: Heal allies with uncanny precision.
+2. Divinity: Eliminate enemies deemed beyond redemption (wounded foes, deserters, traitors).
+
+After the war, abandoned and purposeless, M.E.N.D. wandered until stumbling upon a mysterious Fey crossing—a shimmering portal hidden in a forgotten forest. 
+
+Beyond it lay a domain where mischievous (or malicious) Fey lured fugitives and criminals with false sanctuary, only to torment them for eternity.
+M.E.N.D. saw this place not as a refuge, but as a testing ground. The Fey, amused by this mechanical interloper, struck a bargain:
+"We bring you the wicked. You judge them. Entertain us."
+
+Each day brought fresh prey—deserters from the Underworld, smugglers from the Myriad, even wayward Crownsguard. But now, a pattern emerged. Though these criminals hailed from rival gangs and factions, they all bore the same hidden taint: connections to a single shadowy syndicate, one that M.E.N.D. himself had unwittingly been manipulating. The Fey’s laughter echoed as the machine’s trials began… and the threads of their design tightened.
 
 ---
 
